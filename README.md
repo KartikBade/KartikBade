@@ -1,4 +1,4 @@
-[![MasterHead](https://imgs.search.brave.com/JeflXrIHF0LhOjRzJb_VZ04QWaVgIe6zLBt6WdiwC_I/rs:fit:1200:480:1/g:ce/aHR0cHM6Ly8xLmJw/LmJsb2dzcG90LmNv/bS8tN0E0V3lud0xz/TXcvWGJCcENYRzhm/SEkvQUFBQUFBQUFN/dDQvdU9hMWJwTHNr/WWdyd0dibGxoU3Uy/U0RqX01pZzhTWEpR/Q0xjQkdBc1lIUS9z/MTYwMC8yMDAwXzYw/MHB4LmdpZg.gif]
+[![MasterHead](https://imgs.search.brave.com/JeflXrIHF0LhOjRzJb_VZ04QWaVgIe6zLBt6WdiwC_I/rs:fit:1200:480:1/g:ce/aHR0cHM6Ly8xLmJw/LmJsb2dzcG90LmNv/bS8tN0E0V3lud0xz/TXcvWGJCcENYRzhm/SEkvQUFBQUFBQUFN/dDQvdU9hMWJwTHNr/WWdyd0dibGxoU3Uy/U0RqX01pZzhTWEpR/Q0xjQkdBc1lIUS9z/MTYwMC8yMDAwXzYw/MHB4LmdpZg.gif](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Kartik Bade</h1>
 <h3 align="center">I am a android developer from Pune, India.</h3>
 <img align="right" alt="Coding" width="400" src="https://imgs.search.brave.com/BLu6oE6t5SNWnKebbV69AKOXiK4FoPHZ3n8I9MePyyM/rs:fit:220:220:1/g:ce/aHR0cHM6Ly9tZWRp/YS50ZW5vci5jb20v/aW1hZ2VzLzIwNDky/YjdlZmZjODE2MGUz/NmU3OWE3OWU0YzZh/OWY1L3Rlbm9yLmdp/Zg.gif">
