@@ -16,6 +16,10 @@
 
  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kartikbade&show_icons=true&locale=en&layout=compact" alt="kartikbade" /></p>
 <br/>
+<br/>
+<br/>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=kartikbade&show_icons=true&locale=en" alt="kartikbade" style="margin-top:10px"/></p>
+<br/>
+<br/>
 <br/>
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=kartikbade&" alt="kartikbade" /></p>
