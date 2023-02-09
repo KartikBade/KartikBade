@@ -1,7 +1,6 @@
-[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://imgs.search.brave.com/YhS4W7Elmh-6wJFuFBXeLqpqnStr-QKon0A0X8KJmWA/rs:fit:1200:480:1/g:ce/aHR0cHM6Ly80LmJw/LmJsb2dzcG90LmNv/bS8tNnZHdnk0dkNj/dkUvWGRjd25hZjdY/ekkvQUFBQUFBQUFO/Wk0vSW8ybW04U1hq/bVVWQ282MGJ5T24t/WHBMVXBuNTRuaXpB/Q0xjQkdBc1lIUS9z/MTYwMC9pbWFnZTEu/Z2lm.gif))]
 <h1 align="center">Hi 👋, I'm Kartik Bade</h1>
 <h3 align="center">I am a android developer from Pune, India.</h3>
-<img align="right" alt="Coding" width="400" src="https://imgs.search.brave.com/BLu6oE6t5SNWnKebbV69AKOXiK4FoPHZ3n8I9MePyyM/rs:fit:220:220:1/g:ce/aHR0cHM6Ly9tZWRp/YS50ZW5vci5jb20v/aW1hZ2VzLzIwNDky/YjdlZmZjODE2MGUz/NmU3OWE3OWU0YzZh/OWY1L3Rlbm9yLmdp/Zg.gif">
+<img align="right" alt="Coding" width="300" src="https://imgs.search.brave.com/BLu6oE6t5SNWnKebbV69AKOXiK4FoPHZ3n8I9MePyyM/rs:fit:220:220:1/g:ce/aHR0cHM6Ly9tZWRp/YS50ZW5vci5jb20v/aW1hZ2VzLzIwNDky/YjdlZmZjODE2MGUz/NmU3OWE3OWU0YzZh/OWY1L3Rlbm9yLmdp/Zg.gif">
 
 - 🌱 I’m currently learning **WorkManager - Android Studio**
 
