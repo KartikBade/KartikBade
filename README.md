@@ -16,7 +16,17 @@
 
  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kartikbade&show_icons=true&locale=en&layout=compact" alt="kartikbade" /></p>
 
+<p><img align="left" src="https://imgs.search.brave.com/_fBsseaOGeAtKC0AH2GSHJ4BAT2XkFDnZUF8YVymN24/rs:fit:474:632:1/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy90/aHVtYi81LzUwL0Js/YWNrX2NvbG91ci5q/cGcvMTIwMHB4LUJs/YWNrX2NvbG91ci5q/cGc" alt="kartikbade" /></p>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=kartikbade&show_icons=true&locale=en" alt="kartikbade"/></p>
 
+<p><img align="left" src="https://imgs.search.brave.com/_fBsseaOGeAtKC0AH2GSHJ4BAT2XkFDnZUF8YVymN24/rs:fit:474:632:1/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy90/aHVtYi81LzUwL0Js/YWNrX2NvbG91ci5q/cGcvMTIwMHB4LUJs/YWNrX2NvbG91ci5q/cGc" alt="kartikbade" /></p>
+
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=kartikbade&" alt="kartikbade" /></p>
+
+
+
+
+
+
 
