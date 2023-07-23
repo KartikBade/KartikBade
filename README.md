@@ -2,7 +2,7 @@
 <h3 align="center">Android Developer</h3>
 <img align="right" alt="Coding" width="200" src="https://imgs.search.brave.com/BLu6oE6t5SNWnKebbV69AKOXiK4FoPHZ3n8I9MePyyM/rs:fit:220:220:1/g:ce/aHR0cHM6Ly9tZWRp/YS50ZW5vci5jb20v/aW1hZ2VzLzIwNDky/YjdlZmZjODE2MGUz/NmU3OWE3OWU0YzZh/OWY1L3Rlbm9yLmdp/Zg.gif">
 
-- 🌱 I’m currently learning **WorkManager - Android Studio**
+- 🌱 I’m currently working on **Gym Progress Tracker App**
 
 - 📫 How to reach me **kartikbade19@gmail.com**
 
